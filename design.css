@@ -103,7 +103,7 @@ nav {
     height: 130vh;
 }
 .img {
-    background-image: url(../imgs/site.png);
+    background-image: url(site.png);
     width: 450px;
     height:400px;
     background-size: 440px 390px;
@@ -278,22 +278,22 @@ color: rgb(83 81 250);;
 }
 .im4 {
     margin-top: -10px;
-    background-image: url(../imgs/ecommercewebsite.png);
+    background-image: url(ecommercewebsite.png);
 }
 .im5 {
-    background-image: url(../imgs/learningwebsite.png);
+    background-image: url(learningwebsite.png);
 }
 .im3 {
-    background-image: url(../imgs/newswebsite.png);
+    background-image: url(newswebsite.png);
 }
 .im1 {
-    background-image: url(../imgs/gamingwebsite.png);
+    background-image: url(gamingwebsite.png);
 }
 .im2 {
-    background-image: url(../imgs/travelwebsite.png);
+    background-image: url(travelwebsite.png);
 }
 .im6 {
-    background-image: url(../imgs/portfoliowebsite.png);
+    background-image: url(portfoliowebsite.png);
 }
 .section3 {
     width: 100%;
@@ -307,7 +307,7 @@ color: rgb(83 81 250);;
 .squa1 {
     width: 370px;
     height: 370px;
-    background-image: url(../imgs/contact.png);
+    background-image: url(contact.png);
     background-size: cover;
     margin-left: 40px;
 }
