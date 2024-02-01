@@ -88,7 +88,7 @@ nav {
 .section1 {
     display: flex;
     position: relative;
-    padding: 62px 0;
+    padding: 58px 0;
     margin-bottom: -4.2vh;
     background-color: transparent;
     width:100%;
@@ -113,11 +113,11 @@ nav {
 }
 .writing {
     margin-right: 30px;
-    margin-top:67px;
+    margin-top:60px;
     width: 680px;
     height: 200px;
     background: #66b40000;
-    margin-left: 14vw;
+    margin-left: 11.8vw;
     font-size: 45px;
     font-family: sans-serif;
     font-weight: 600;
